@@ -77,4 +77,3 @@ I am a versatile engineer focused on **AI Integration** and **Full-Stack Develop
   <i>"Always solving, always learning."</i>
 </p>
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MykhailoTymoshenko08&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
