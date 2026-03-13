@@ -9,17 +9,17 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 I am a versatile engineer focused on **AI Integration** and **Full-Stack Development**. My expertise spans from low-level systems architecture (Assembly, C++) to high-level AI-driven applications. I specialize in building complex AI agents and RAG systems that solve real-world problems.
 
-- 🧠 **AI Expertise:** LangChain, ChromaDB, RAG, Multi-LLM architectures (OpenRouter).
-- 🏗️ **Core Principles:** Clean Architecture, OOP, and High-Performance Systems.
-- 🌍 **Polyglot:** Fluent in 6 languages (English C1, Spanish B2, Polish/French B1, UA/RU Native).
-- ⚡ **Fast Learner:** From medical research to AI engineering — I thrive on complexity.
+-  **AI Expertise:** LangChain, ChromaDB, RAG, Multi-LLM architectures (OpenRouter).
+-  **Core Principles:** Clean Architecture, OOP, and High-Performance Systems.
+-  **Polyglot:** Fluent in different languages (English, Spanish, Polish/French, German, UA/RU Native).
+-  **Fast Learner:** From medical research to AI engineering — I thrive on complexity.
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 **AI & Backend**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -43,7 +43,7 @@ I am a versatile engineer focused on **AI Integration** and **Full-Stack Develop
 
 ---
 
-### 📂 Featured Projects
+###  Featured Projects
 
 * **[AI Fusion Chat](https://github.com/MykhailoTymoshenko08/AI-Fushion-Chat-MVP)** — Multi-LLM Judge Aggregator with RAG and Tavily Search integration.
 * **[RZK Soft Prime](https://github.com/MykhailoTymoshenko08/RZK_Soft_Prime)** — High-performance corporate website built with Next.js and TypeScript.
@@ -52,14 +52,14 @@ I am a versatile engineer focused on **AI Integration** and **Full-Stack Develop
 
 ---
 
-### 🏆 Certificates & Awards
-- 🤖 **Python AI Development** (Mimo)
-- 🌐 **Web Development Internship** (SharpMinds I & II)
-- 🩺 **Award in Medical Research & Surgery** (Cross-disciplinary excellence)
+###  Certificates & Awards
+-  **Python AI Development** (Mimo)
+-  **Web Development Internship** (SharpMinds I & II)
+-  **Award in Medical Research & Surgery** (Cross-disciplinary excellence)
 
 ---
 
-### 📊 GitHub Statistics & Activity
+###  GitHub Statistics & Activity
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MykhailoTymoshenko08&show_icons=true&theme=radical&rank_icon=github" />
