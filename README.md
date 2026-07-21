@@ -14,7 +14,7 @@ I am a versatile engineer focused on **AI Integration** and **Full-Stack Develop
 
 -  **AI Expertise:** LangChain, ChromaDB, RAG, Multi-LLM architectures (OpenRouter).
 -  **Core Principles:** Clean Architecture, OOP, and High-Performance Systems.
--  **Polyglot:** Fluent in different languages (English, Spanish, Polish/French, German, UA/RU Native).
+-  **Polyglot:** Fluent in different languages (English, Spanish, Polish, UA/RU Native).
 -  **Fast Learner:** From medical research to AI engineering — I thrive on complexity.
 
 ---
@@ -38,24 +38,7 @@ I am a versatile engineer focused on **AI Integration** and **Full-Stack Develop
 
 **Automation & Tools**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-
----
-
-###  Featured Projects
-
-* **[AI Fusion Chat](https://github.com/MykhailoTymoshenko08/AI-Fushion-Chat-MVP)** — Multi-LLM Judge Aggregator with RAG and Tavily Search integration.
-* **[RZK Soft Prime](https://github.com/MykhailoTymoshenko08/RZK_Soft_Prime)** — High-performance corporate website built with Next.js and TypeScript.
-* **[Gladiator Arena](https://github.com/MykhailoTymoshenko08/Gladiator-Arena-Simulation-TS)** — Advanced battle simulation demonstrating deep OOP knowledge.
-* **[Task Manager C++](https://github.com/MykhailoTymoshenko08/Task-Manager-cpp)** — Console-based utility focused on persistent storage and data structures.
-
----
-
-###  Certificates & Awards
--  **Python AI Development** (Mimo)
--  **Web Development Internship** (SharpMinds I & II)
--  **Award in Medical Research & Surgery** (Cross-disciplinary excellence)
 
 ---
 
