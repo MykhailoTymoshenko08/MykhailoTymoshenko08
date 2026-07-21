@@ -1,5 +1,5 @@
-# Hi there, I'm Mykhailo! 👋 
-### Founder, CEO & Lead Full-Stack/AI Engineer
+# Hi there, I'm Mykhailo! 
+### Lead Full-Stack/AI Engineer
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mykhailo-tymoshenko-ce" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
