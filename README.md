@@ -1,62 +1,82 @@
-# Hi there, I'm Mykhailo! 
-### Lead Full-Stack/AI Engineer
+# Hi, I'm Mykhailo 👋
 
-<p align="left">
-<a href="https://www.linkedin.com/in/mykhailo-tymoshenko-ce" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://github.com/MykhailoTymoshenko08" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
-<a href="https://www.instagram.com/rinzunaka_misha_._/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+### AI Product Engineer · Full-Stack (Python / FastAPI / Next.js) · Team Lead at RZK Soft
+
+I build LLM products end to end — from the API and the prompt to the UI and the Docker deploy. Computer Science student at Taras Shevchenko National University of Kyiv. I came to AI engineering from medical research. I lead a cross-functional team of 8 that ships AI prototypes at hackathons and in commercial projects.
+
+<p>
+  <a href="https://www.linkedin.com/in/mykhailo-tymoshenko-ce"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mtimos183@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-###  About Me
-I am a versatile engineer focused on **AI Integration** and **Full-Stack Development**. My expertise spans from low-level systems architecture (Assembly, C++) to high-level AI-driven applications. I specialize in building complex AI agents and RAG systems that solve real-world problems.
+### 🔭 What I work on
 
--  **AI Expertise:** LangChain, ChromaDB, RAG, Multi-LLM architectures (OpenRouter).
--  **Core Principles:** Clean Architecture, OOP, and High-Performance Systems.
--  **Polyglot:** Fluent in different languages (English, Spanish, Polish, UA/RU Native).
--  **Fast Learner:** From medical research to AI engineering — I thrive on complexity.
+- **LLM applications** — structured outputs (Pydantic / `instructor`), multi-model routing via OpenRouter, retries and model fallback, LLM-as-a-Judge
+- **RAG** — ChromaDB, embeddings, hybrid context from documents and web search
+- **Computer vision** — YOLO-based monitoring (Nova Poshta × Vodafone R&D hackathon finalist, 1100+ cameras)
+- **Backend that doesn't break** — transactional booking with `SELECT … FOR UPDATE` + `SERIALIZABLE`, DST-safe scheduling, integration tests
 
----
+### 🏆 Highlights
 
-###  Tech Stack
-
-**AI & Backend**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-**Frontend & Design**
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-**Automation & Tools**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+- 🥇 **1st place — TechMind Game by OBRIO** (2026, team of 8)
+- 🏁 **Finalist — Logistics AI Hackathon** by Nova Poshta & Vodafone R&D (team lead, CV + BLE tracking)
+- Hackathons: INT20H · OpenRouter Fraud Detection · UA-Skills · Sigma Software Ideathon · SKELAR Case Challenge 2.0
 
 ---
 
-###  GitHub Statistics & Activity
+### 📌 Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Booking-App**](https://github.com/MykhailoTymoshenko08/Booking-App) | Meeting-room booking with race-condition protection, DST-safe recurring bookings, unit + integration tests | Next.js 14 · Prisma · PostgreSQL · Vitest · Supertest |
+| [**AISupportSystem**](https://github.com/MykhailoTymoshenko08/AISupportSystem) | Support-ticket classifier + agent copilot with human-in-the-loop, retries and model fallback | FastAPI · instructor · OpenRouter · Streamlit · Docker |
+| [**AI-Fushion-Chat-MVP**](https://github.com/MykhailoTymoshenko08/AI-Fushion-Chat-MVP) | Asks two LLMs in parallel, a third one judges and merges the answers; RAG over PDFs + web search | FastAPI · LangChain · ChromaDB · Tavily |
+| [**skelar-ai-support-analyser**](https://github.com/MykhailoTymoshenko08/skelar-ai-support-analyser) | Generates synthetic support dialogues and scores agent quality, hidden dissatisfaction and mistakes | LangChain · asyncio · Pydantic · Docker |
+| [**AppleStoreAnalysisAPI**](https://github.com/MykhailoTymoshenko08/AppleStoreAnalysisAPI) | Collects App Store reviews and turns them into product insights | FastAPI · Next.js · Recharts · OpenRouter |
+| [**DreamHouse_AI**](https://github.com/MykhailoTymoshenko08/DreamHouse_AI) | End-to-end ML: synthetic data → EDA → XGBoost (R² 0.96) → FastAPI → web UI | XGBoost · scikit-learn · FastAPI |
+| [**MockIT-MVP**](https://github.com/MykhailoTymoshenko08/MockIT-MVP) | Interview plan and recruiter outreach generated from a PDF CV | FastAPI · PyMuPDF · Streamlit · Docker |
+
+---
+
+### 🛠 Tech stack
+
+**AI / ML**
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+
+**Backend & data**
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Infra & tools**
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+### 🌍 Languages
+
+Ukrainian · English · Spanish · Polish · Russian
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MykhailoTymoshenko08&show_icons=true&theme=radical&rank_icon=github" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MykhailoTymoshenko08&layout=compact&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MykhailoTymoshenko08&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MykhailoTymoshenko08&layout=compact&theme=github_dark&hide_border=true" />
 </p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MykhailoTymoshenko08&theme=radical" alt="GitHub Streak" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=MykhailoTymoshenko08&theme=react-dark" />
-</p>
-
----
-
-<p align="center">
-  <i>"Always solving, always learning."</i>
-</p>
-
