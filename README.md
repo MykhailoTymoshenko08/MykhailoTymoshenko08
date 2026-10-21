@@ -1,4 +1,4 @@
-# Hi, I'm Mykhailo 👋
+# Hi, I'm Mykhailo
 
 ### AI Product Engineer · Full-Stack (Python / FastAPI / Next.js) · Team Lead at RZK Soft
 
@@ -11,22 +11,22 @@ I build LLM products end to end — from the API and the prompt to the UI and th
 
 ---
 
-### 🔭 What I work on
+###  What I work on
 
 - **LLM applications** — structured outputs (Pydantic / `instructor`), multi-model routing via OpenRouter, retries and model fallback, LLM-as-a-Judge
 - **RAG** — ChromaDB, embeddings, hybrid context from documents and web search
 - **Computer vision** — YOLO-based monitoring (Nova Poshta × Vodafone R&D hackathon finalist, 1100+ cameras)
 - **Backend that doesn't break** — transactional booking with `SELECT … FOR UPDATE` + `SERIALIZABLE`, DST-safe scheduling, integration tests
 
-### 🏆 Highlights
+###  Highlights
 
-- 🥇 **1st place — TechMind Game by OBRIO** (2026, team of 8)
+- **1st place — TechMind Game by OBRIO** (2026, team of 8)
 - 🏁 **Finalist — Logistics AI Hackathon** by Nova Poshta & Vodafone R&D (team lead, CV + BLE tracking)
 - Hackathons: INT20H · OpenRouter Fraud Detection · UA-Skills · Sigma Software Ideathon · SKELAR Case Challenge 2.0
 
 ---
 
-### 📌 Featured projects
+###  Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -40,7 +40,7 @@ I build LLM products end to end — from the API and the prompt to the UI and th
 
 ---
 
-### 🛠 Tech stack
+###  Tech stack
 
 **AI / ML**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -72,7 +72,7 @@ I build LLM products end to end — from the API and the prompt to the UI and th
 
 ---
 
-### 🌍 Languages
+###  Languages
 
 Ukrainian · English · Spanish · Polish · Russian
 
